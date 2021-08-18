@@ -3,9 +3,8 @@
 
 
 social:
-  - {icon: 'github', type: "brand", link: 'https://www.github.com/pandasekh'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
-  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/alessio-franceschi/'}
-  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/_danielectric_'}
+  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/daniela-carolina-garcia-rojas-025326217'}
+  - {icon: 'instagram-square', type: "brand", link: 'https://www.instagram.com/_danielectric_'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:dcgarciarojas@gmail.com'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
